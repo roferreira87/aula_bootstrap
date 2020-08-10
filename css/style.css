@@ -1,5 +1,5 @@
 body{
-    font: 20px Arial; sans-serif
+    font: 20px Arial; sans-serif;
 }
 .navbar {
     background-color: #E6E0F8;
@@ -16,4 +16,8 @@ body{
 }
 .parceiros{
     background-color: rgb(222, 209, 243);
+}
+
+.bg-footer{
+    background-color: #a490e0;
 }
